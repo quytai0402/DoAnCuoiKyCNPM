@@ -1,0 +1,1 @@
+-- Chèn dữ liệu mẫu vào bảng cards

@@ -1,0 +1,1 @@
+// Giúp ta có thể tạo và quản lý cơ sở dữ liệu cho ứng dụng đọc thẻ Visa/MasterCard. Những tệp này sẽ giúp bạn tạo bảng, chèn, cập nhật, truy vấn và xóa dữ liệu thẻ trong cơ sở dữ liệu SQLite.
