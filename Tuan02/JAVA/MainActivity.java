@@ -1,0 +1,1 @@
+// Tệp này là điểm khởi đầu của ứng dụng và quản lý giao diện chính.
