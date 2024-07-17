@@ -1,1 +1,0 @@
-// Tệp này xử lý chức năng đọc thẻ.

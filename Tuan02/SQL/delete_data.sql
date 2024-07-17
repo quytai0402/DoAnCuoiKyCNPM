@@ -1,1 +1,0 @@
--- Xóa thẻ theo id
