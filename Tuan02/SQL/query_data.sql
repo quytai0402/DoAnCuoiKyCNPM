@@ -1,1 +1,0 @@
--- Lấy tất cả thông tin thẻ , id và thông tin theo số thẻ

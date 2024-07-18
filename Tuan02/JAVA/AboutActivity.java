@@ -1,1 +1,0 @@
-// Tệp này cung cấp thông tin về ứng dụng và nhà phát triển.

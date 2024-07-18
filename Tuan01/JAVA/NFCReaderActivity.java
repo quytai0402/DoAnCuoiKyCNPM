@@ -1,1 +1,0 @@
-// Xử lý chức năng đọc thẻ qua NFC.

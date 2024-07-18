@@ -1,1 +1,0 @@
-// Tệp này hiển thị chi tiết thông tin thẻ.
