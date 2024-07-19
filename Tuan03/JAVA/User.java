@@ -1,0 +1,1 @@
+Đây là lớp mô hình (model) đại diện cho một người dùng trong hệ thống. Nó chứa các thuộc tính name (tên), cardInfo (thông tin thẻ), và balance (số dư tài khoản). Lớp này có các phương thức getter và setter để truy cập và cập nhật các thuộc tính này.

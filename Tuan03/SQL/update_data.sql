@@ -1,0 +1,1 @@
+-- Cập nhật thông tin thẻ theo id
